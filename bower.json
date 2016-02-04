@@ -1,0 +1,10 @@
+{
+  "name": "wrapper-gridster",
+  "version": "0.0.1",
+  "dependencies": {
+    "gridster": "git+https://github.com/ducksboard/gridster.js.git",
+    "polymer": "Polymer/polymer#^1.0.0",
+    "import-jquery": "git+https://github.com/andiwand/import-jquery.git"
+  },
+  "private": true
+}
